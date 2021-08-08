@@ -14,7 +14,7 @@ Observations were made on the basis of acceptable deviance among the same parame
 
 This project contains 'weather_reporting.py' which compares the data from API and UI and another file 'test_variance' which accepts % of variance and logs the observations on comparison to the data sources.
 
-## Install Depedencies
+## Depedencies
 
 Targeted website: https://weather.com/
 
