@@ -57,7 +57,7 @@ if __name__ == '__main__':
 ```
   
 
-This script compares the data captured via API againt that of UI automation and and asserts if the variance is in the acceptable range.
+This script compares the data captured via API against that of UI automation and and asserts if the variance is in the acceptable range.
 Function 'compare_data' does the following:
 
     1. Accepts the argument in the form of Configurable JSON input with following parameters:
