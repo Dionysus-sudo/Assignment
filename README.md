@@ -18,6 +18,8 @@ This project contains 'weather_reporting.py' which compares the data from API an
 
 Targeted website: https://weather.com/
 
+API used: https://openweathermap.org/current
+
 requirements.txt https://github.com/Dionysus-sudo/Assignment/blob/main/requirements.txt
 
 Install all with: 
